@@ -1,0 +1,22 @@
+# Site settings
+title: Tales of a laggedHero
+description: > # this means to ignore newlines until "baseurl:"
+  Software developer and gamer. Passionate about technology and homebrew beers.
+  Believes that languages​​, frameworks and libraries are tools (not a religion) and should be chosen according to the task at hand.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://laggedhero.net" # the base hostname & protocol for your site
+twitter_username: laggedhero
+github_username:  laggedhero
+highlighter: pygments
+timezone: America/Sao_Paulo
+paginate: 5
+
+# Build settings
+markdown: kramdown
+#markdown: redcarpet
+
+gems:
+  - jekyll-sitemap
+
+kramdown:
+  input: GFM
