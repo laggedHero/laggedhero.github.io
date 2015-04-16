@@ -152,6 +152,9 @@ Mas eu acho que ganhamos muito mais. Eu me diverti pacas. Ri muito, me estressei
 
 AH, muito importante: retweetem, favoritem e etc o tweet oficial deste post, que está logo abaixo. Ainda posso ganhar um brinde da globo.com. :D
 
+<blockquote class="twitter-tweet" lang="en"><p>Um breve relato da minha experiência no <a href="https://twitter.com/hashtag/hackinpoa?src=hash">#hackinpoa</a> <a href="http://t.co/cyvZTTWYc6">http://t.co/cyvZTTWYc6</a></p>&mdash; laggedHero (@laggedHero) <a href="https://twitter.com/laggedHero/status/588642230061166592">April 16, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 PS.: As fotos eu tirei do [album oficial do Hack In PoA] do [TechTudo], tirando o Instagram, claro.
 
 ------
