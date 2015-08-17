@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Technical Debt (tentative title)"
+title:  "Dívida Técnica"
 categories: article
 ---
 
-Você já deve ter ouvido falar sobre dívida técnica (ou débito técnico). Eu tinha ouvido falar, mas não tinha procurado ler sobre o assunto (meu erro aqui). Sabe como é, projetos, trabalho, freelas... tudo vai acumulando e o back log só cresce.
+Você já deve ter ouvido falar sobre dívida técnica (ou débito técnico). Eu tinha ouvido falar, mas não tinha procurado ler sobre o assunto (meu erro aqui). Sabe como é, projetos, trabalho, freelas... tudo vai acumulando e o backlog só cresce.
 
 Bem, isso mudou em Maio.
 
@@ -12,7 +12,7 @@ Recebi um e-mail do (da?) infoQ sobre um minibook intitulado [Technical Debt and
 
 ### Dívida Técnica, simples assim
 
-Pode parecer bobagem, mas saber o termo correto para algo que você pensa é libertador. Sempre pensei no conceito de dívida técnica, mas não sabia como expressa-la em um termo. Meu paralelo foi sempre o de falar em trade-off, feito com conhecimento do que está sendo feito (e por que) e frisando que devemos depois voltar para melhorar o que foi feito às pressas.
+Pode parecer bobagem, mas saber o termo correto para algo que você pensa é libertador. Sempre pensei no conceito de dívida técnica, mas não sabia como expressa-la em um termo. Meu paralelo foi sempre o de falar em trade-off: uma troca, feita com conhecimento do que está sendo feito (e por que), onde sabemos que estamos ganhando em um lado, mas em detrimento de outro. Adicionando que devemos, depois, voltar para melhorar o que foi feito às pressas.
 
 Mas, calma ae, estou me antecipando, talvez.
 
