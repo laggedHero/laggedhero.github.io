@@ -1,26 +1,23 @@
 ---
 layout: post
-title:  "Dívida Técnica"
+title:  "Technical Debt"
 categories: article
 ---
 
-Você já deve ter ouvido falar sobre dívida técnica (ou débito técnico). Eu tinha ouvido falar, mas não tinha procurado ler sobre o assunto (meu erro aqui). Sabe como é, projetos, trabalho, freelas... tudo vai acumulando e o backlog só cresce.
+You must have heard about technical debt. I had, but I didn't try to read about it (my bad). You know, the everyday sore: projects, job, freelancing... it all adds up and you backlog grows.
 
-Bem, isso mudou em Maio.
+Well, that changed in May. And because of the everyday sore... yeah, didn't wrote about it either.
 
-Recebi um e-mail do (da?) infoQ sobre um minibook intitulado [Technical Debt and Software Craftsmanship][1]. Este minibook é uma coletânea de seis artigos presentes no infoQ. Dado o formato, e com um Kindle em mãos, o resultado foram algumas horas de almoço com uma bela leitura, que me adicionou muito.
+It started wi an e-mail from infoQ about a minibook called [Technical Debt and Software Craftsmanship][1]. It's a collection of six articles from infoQ and, having a Kindle at hand, I took some lunch time with this nice reading.
 
-### Dívida Técnica, simples assim
+### Technical Debt - easy as that
 
-Pode parecer bobagem, mas saber o termo correto para algo que você pensa é libertador. Sempre pensei no conceito de dívida técnica, mas não sabia como expressa-la em um termo. Meu paralelo foi sempre o de falar em trade-off: uma troca, feita com conhecimento do que está sendo feito (e por que), onde sabemos que estamos ganhando em um lado, mas em detrimento de outro. Adicionando que devemos, depois, voltar para melhorar o que foi feito às pressas.
+It may sound silly, but knowing the exact term for something you think about makes all the difference in the world. I've always though about the concept of techninal debt, but didn't know how to convert them easily. What I did was a parallel with the concept of trade-off: where you chose uma option instead of another, knowing why and the consequences. Sometimes you may chose what's technically "bad", but you must go back at a later time and fix it.
 
-Mas, calma ae, estou me antecipando, talvez.
+I'm getting ahead of myself. Let's slow down.
 
-### O que é dívida técnica?
+### What is technical debt?
 
-
-
-### O que não é dívida técnica?
 
 
 -> how does interest build up
