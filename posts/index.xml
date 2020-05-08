@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Tales of a laggedHero</title>
+    <link>https://laggedhero.net/posts/</link>
+    <description>Recent content in Posts on Tales of a laggedHero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 08 May 2020 21:19:33 +0200</lastBuildDate>
+    
+	<atom:link href="https://laggedhero.net/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Reboot</title>
+      <link>https://laggedhero.net/posts/2020/05/reboot/</link>
+      <pubDate>Fri, 08 May 2020 21:19:33 +0200</pubDate>
+      
+      <guid>https://laggedhero.net/posts/2020/05/reboot/</guid>
+      <description>If this is available, it means I was able to successfully deploy the new version of my blog using Hugo.
+Now, I just need to write about interesting stuff. Or just stuff.</description>
+    </item>
+    
+  </channel>
+</rss>
