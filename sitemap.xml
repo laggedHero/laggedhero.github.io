@@ -1,38 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
-  <url>
-    <loc>https://laggedhero.net/</loc>
-    <lastmod>2020-05-08T21:19:33+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
+  <sitemap>
+    <loc>https://laggedhero.net/en/sitemap.xml</loc>
+    
+      <lastmod>2020-05-08T21:19:33+02:00</lastmod>
+    
+  </sitemap>
   
-  <url>
-    <loc>https://laggedhero.net/posts/</loc>
-    <lastmod>2020-05-08T21:19:33+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
+  <sitemap>
+    <loc>https://laggedhero.net/pt-br/sitemap.xml</loc>
+    
+  </sitemap>
   
-  <url>
-    <loc>https://laggedhero.net/posts/2020/05/reboot/</loc>
-    <lastmod>2020-05-08T21:19:33+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://laggedhero.net/categories/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://laggedhero.net/tags/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-</urlset>
+</sitemapindex>

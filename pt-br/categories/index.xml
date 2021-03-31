@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Tales of a laggedHero</title>
-    <link>https://laggedhero.net/categories/</link>
+    <link>https://laggedhero.net/pt-br/categories/</link>
     <description>Recent content in Categories on Tales of a laggedHero</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://laggedhero.net/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://laggedhero.net/pt-br/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
